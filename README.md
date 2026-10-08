@@ -1,4 +1,4 @@
-# Amazon-Supply-Chain-Specialist-Projects
+# Amazon Supply Chain Specialist Projects
 A collection of projects and applied assignments completed as part of the **Amazon Supply Chain Specialist Professional Certificate** on Coursera.
 
 The projects apply supply chain concepts, data analysis, and quantitative problem-solving to practical business and operational challenges across areas such as **demand planning, inventory management, logistics, procurement, and supply chain optimization**.
