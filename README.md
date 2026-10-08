@@ -23,7 +23,7 @@ This repository contains the projects and assignments I completed throughout the
 
 | #  | Project           | Focus                      | Key Skills                           |
 | -- | ----------------- | -------------------------- | ------------------------------------ |
-| 01 | [Project Name](#) | Supply Chain Operations Analysis      | Root Cause Analysis, ERP/WMS/TMS, Data Reconciliation                 |
+| 01 | [AeroBottle_Operational_Review](https://github.com/Zanemii/Amazon-Supply-Chain-Specialist-Projects/blob/main/Project/AeroBottle_Operational_Review.pptx) | Supply Chain Operations Analysis      | Root Cause Analysis, ERP/WMS/TMS, Data Reconciliation                 |
 | 02 | [Project Name](#) | Demand Planning            | Forecasting, Demand Analysis         |
 | 03 | [Project Name](#) | Inventory Management       | Inventory Analysis, Optimization     |
 | 04 | [Project Name](#) | Logistics & Transportation | Logistics Analysis, Network Planning |
