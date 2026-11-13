@@ -24,7 +24,7 @@ This repository contains the projects and assignments I completed throughout the
 | #  | Project           | Focus                      | Key Skills                           |
 | -- | ----------------- | -------------------------- | ------------------------------------ |
 | 01 | [AeroBottle_Operational_Review](https://github.com/Zanemii/Amazon-Supply-Chain-Specialist-Projects/raw/refs/heads/main/Project/AeroBottle_Operational_Review.pptx) | Supply Chain Operations Analysis      | Root Cause Analysis, ERP/WMS/TMS, Data Reconciliation                 |
-| 02 | [EcoClean_Pods_Research_Report](https://github.com/Zanemii/Amazon-Supply-Chain-Specialist-Projects/raw/refs/heads/main/Project/EcoClean_Pods_Research_Report_Editorial.pdf) | Demand Planning and S&OP Performance Analysis            | Forecast Accuracy (MAE, MAPE, WAPE), Root Cause Analysis, KPI and Cost Variance Analysis, S&OP Planning, Data Visualization, Executive Reporting         |
+| 02 | [EcoClean_Pods_Supply_Chain_Performance_Review](https://github.com/Zanemii/Amazon-Supply-Chain-Specialist-Projects/raw/refs/heads/main/Project/EcoClean_Pods_Research_Report_Editorial.pdf) | Demand Planning and S&OP Performance Analysis            | Forecast Accuracy (MAE, MAPE, WAPE), Root Cause Analysis, KPI and Cost Variance Analysis, S&OP Planning, Data Visualization, Executive Reporting         |
 | 03 | [WIP](#) | WIP       | WIP     |
 | 04 | [WIP](#) | WIP | WIP |
 | 05 | [WIP](#) | WIP  | WIP  |
